@@ -1,5 +1,5 @@
 ---
-title: "welcome to the first blog"
+title: "welcome to the very first blog post"
 date: 2019-04-10
 ---
 New Games are Added Daily. Find the Best Free Games at Poki.com, and Have Fun! Instant Play. 
